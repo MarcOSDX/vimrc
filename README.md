@@ -8,13 +8,8 @@ My minimal vim configuration, this configuration is not intended to be adapted f
 * git 2.24.3+
 * python 3.8.2+
 
-## Gettings vim configuration with all modules
+## Gettings vim configuration
 
 ```bash
 user@localhost:~> git clone --recursive https://github.com/marcos-roropeza/vimrc ~/.vim
-```
-## Gettings vim configuration without all modules
-
-```bash
-user@localhost:~> git clone https://github.com/marcos-roropeza/vimrc ~/.vim
 ```
