@@ -1,0 +1,36 @@
+[submodule "pack/theme/start/paragon.vim"]
+	path = pack/theme/start/paragon.vim
+	url = https://github.com/seandewar/paragon.vim
+[submodule "pack/theme/start/vim-airline"]
+	path = pack/theme/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/theme/start/vim-airline-themes"]
+	path = pack/theme/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/productivity/start/auto-pairs"]
+	path = pack/productivity/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "pack/productivity/start/emmet-vim"]
+	path = pack/productivity/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "pack/productivity/start/vim-closetag"]
+	path = pack/productivity/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag
+[submodule "pack/productivity/start/editorconfig-vim"]
+	path = pack/productivity/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/productivity/start/nerdtree"]
+	path = pack/productivity/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/theme/start/vim-devicons"]
+	path = pack/theme/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "pack/productivity/start/nerdtree-git-plugin"]
+	path = pack/productivity/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/productivity/start/vim-gitgutter"]
+	path = pack/productivity/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/ide/start/coc.nvim"]
+	path = pack/ide/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
