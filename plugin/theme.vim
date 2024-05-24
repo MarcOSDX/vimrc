@@ -15,10 +15,10 @@ if &t_Co > 2
   set cursorline
   set cursorcolumn
   set colorcolumn=80
-  let g:airline_theme='minimalist' " Configure a vim ariline theme, by default vim ariline theme use monokai theme
+  let g:airline_theme='luna' " Configure a vim ariline theme, by default vim ariline theme use monokai theme
 
   syntax enable
-  colorscheme matrix
+  colorscheme chlordane
 else
   syntax on
 endif
