@@ -37,3 +37,6 @@
 [submodule "pack/theme/start/matrix-nvim"]
 	path = pack/theme/start/matrix-nvim
 	url = https://github.com/iruzo/matrix-nvim
+[submodule "pack/theme/start/chlordane.vim"]
+	path = pack/theme/start/chlordane.vim
+	url = https://github.com/vim-scripts/chlordane.vim
