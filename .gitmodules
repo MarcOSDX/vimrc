@@ -34,3 +34,6 @@
 [submodule "pack/ide/start/coc.nvim"]
 	path = pack/ide/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim
+[submodule "pack/theme/start/matrix-nvim"]
+	path = pack/theme/start/matrix-nvim
+	url = https://github.com/iruzo/matrix-nvim
