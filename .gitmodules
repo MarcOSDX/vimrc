@@ -40,3 +40,6 @@
 [submodule "pack/theme/start/chlordane.vim"]
 	path = pack/theme/start/chlordane.vim
 	url = https://github.com/vim-scripts/chlordane.vim
+[submodule "pack/theme/start/onedark.vim"]
+	path = pack/theme/start/onedark.vim
+	url = https://github.com/joshdick/onedark.vim
