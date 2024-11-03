@@ -43,3 +43,6 @@
 [submodule "pack/theme/start/onedark.vim"]
 	path = pack/theme/start/onedark.vim
 	url = https://github.com/joshdick/onedark.vim
+[submodule "pack/theme/start/vim-monokai"]
+	path = pack/theme/start/vim-monokai
+	url = https://github.com/crusoexia/vim-monokai
