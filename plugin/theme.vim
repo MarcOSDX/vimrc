@@ -11,14 +11,13 @@ let g:airline_powerline_fonts=1
 
 " Verify if terminal support 256 colors  
 if &t_Co > 2
-" set background=dark
+  set background=dark
   set cursorline
   set cursorcolumn
   set colorcolumn=80
-  let g:airline_theme='bubblegum' " Configure a vim ariline theme, by default vim ariline theme use monokai theme
 
   syntax on
-  colorscheme monokai
+  colorscheme gruvbox
 else
   syntax on
 endif
