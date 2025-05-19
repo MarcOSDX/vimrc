@@ -1,6 +1,3 @@
-[submodule "pack/theme/start/paragon.vim"]
-	path = pack/theme/start/paragon.vim
-	url = https://github.com/seandewar/paragon.vim
 [submodule "pack/theme/start/vim-airline"]
 	path = pack/theme/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
@@ -34,15 +31,6 @@
 [submodule "pack/ide/start/coc.nvim"]
 	path = pack/ide/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim
-[submodule "pack/theme/start/matrix-nvim"]
-	path = pack/theme/start/matrix-nvim
-	url = https://github.com/iruzo/matrix-nvim
-[submodule "pack/theme/start/chlordane.vim"]
-	path = pack/theme/start/chlordane.vim
-	url = https://github.com/vim-scripts/chlordane.vim
-[submodule "pack/theme/start/onedark.vim"]
-	path = pack/theme/start/onedark.vim
-	url = https://github.com/joshdick/onedark.vim
-[submodule "pack/theme/start/vim-monokai"]
-	path = pack/theme/start/vim-monokai
-	url = https://github.com/crusoexia/vim-monokai
+[submodule "pack/theme/start/gruvbox"]
+	path = pack/theme/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
